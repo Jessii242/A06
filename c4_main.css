@@ -1,0 +1,33 @@
+body h2{
+    font-size: 170%;
+    color: #800000;
+}
+
+header{
+    text-indent: 30px;
+}
+
+body h3{
+    font-size: 130%;
+    font-style: italic;
+}
+
+header img{
+    float:left;
+}
+
+a{
+    font-style: normal;
+}
+a:hover{
+    font-style: italic;
+}
+
+footer p{
+    text-align: center;
+}
+
+.year{
+    text-shadow: 1px 2px #800000;
+    color: #800000;
+}
